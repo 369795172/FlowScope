@@ -24,4 +24,12 @@ Thumbs.db
 *.log
 .env
 .env.local
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE specific
+.cursor/
+.trae/
+
 
